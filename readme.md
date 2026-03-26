@@ -7,19 +7,3 @@
 ```bash
 $ npm install --global youtube-downloader
 ```
-
-## CLI
-
-```
-$ youtube-downloader --help
-
-  Usage
-    $ youtube-downloader
-
-  Options
-    --name  Your name
-
-  Examples
-    $ youtube-downloader --name=Jane
-    Hello, Jane
-```
